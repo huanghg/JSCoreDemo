@@ -73,13 +73,13 @@ So，JS有天然的沃土。在iOS 7之后，JSCore作为一个系统级Framewor
 
 **WebKit**由多个重要模块组成，通过下图我们可以对WebKit有个整体的了解：
 
-![webkit](/Users/haiguanghuang/Documents/Document/热更新/webkit.jpeg)
+![webkit](https://github.com/huanghg/JSCoreDemo/blob/master/Document/webkit.jpeg)
 
 简单点讲，WebKit就是一个**页面渲染**以及**逻辑处理**引擎，前端工程师把HTML、JavaScript、CSS作为输入，经过WebKit的处理，就输出成了我们能看到以及操作的Web页面。
 
 其中**JSCore**是WebKit默认内嵌的JS引擎，即用来解释执行JS脚本的。
 
-![jscore](/Users/haiguanghuang/Documents/Document/热更新/jscore.jpeg)
+![jscore](https://github.com/huanghg/JSCoreDemo/blob/master/Document/jscore.jpeg)
 
 
 
